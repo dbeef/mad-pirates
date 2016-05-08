@@ -17,6 +17,7 @@ Version: I can't really call it a game right now.
 - It should be working now
 
 
+//Don't care for these 
 * Configuration
 * Dependencies
 * Database configuration
@@ -33,3 +34,5 @@ Version: I can't really call it a game right now.
 
 * Repo owner or admin
 * Other community or team contact
+
+//
