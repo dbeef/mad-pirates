@@ -12,7 +12,10 @@ Version: I can't really call it a game right now.
 - [Set up your environment](https://github.com/libgdx/libgdx/wiki/Setting-up-your-Development-Environment-(Eclipse,-Intellij-IDEA,-NetBeans))
 - Clone the project to whatever place you want 
 - Import the "core" project via gradle and build the game for any platform you want by importing "desktop" or "android" etc.
-- Now make steps from [this](https://github.com/manuelbua/libgdx-contribs) site
+
+I'am using libgdx-contribs library for shaders (I explain benefits in [one of my blog posts](https://dbeef.wordpress.com/2016/05/01/easy-shaders-via-libgdx-contribs-postprocessing/)), so:
+
+- Make steps from [this](https://github.com/manuelbua/libgdx-contribs) site
 (Cloning and importing the projects in Eclipse), in summary: clone all these libgdx-contribs projects into the blank folder "libgdx-contribs" in the previously cloned game project and import by gradle 
 (well you can clone it anywhere but It would be much cleaner)
 these additional projects may have a problem - then put a "gdx-1.3.0.jar" into their classpaths
