@@ -18,24 +18,3 @@ Version: I can't really call it a game right now.
 these additional projects may have a problem - then put a "gdx-1.3.0.jar" into their classpaths
 and put these projects into the "core" project's classpath
 - It should be working now
-
-
-//Don't care for these 
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
-
-//
