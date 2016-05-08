@@ -9,8 +9,6 @@ Version: I can't really call it a game right now.
 
 ### How do I get set up? ###
 
-* Summary of set up
-
 - [Set up your environment](https://github.com/libgdx/libgdx/wiki/Setting-up-your-Development-Environment-(Eclipse,-Intellij-IDEA,-NetBeans))
 - Clone the project to whatever place you want 
 - Import the "core" project via gradle and build the game for any platform you want by importing "desktop" or "android" etc.
